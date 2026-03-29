@@ -1,0 +1,14 @@
+# OpenClaw internal files
+.openclaw/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files (never commit secrets!)
+.env
+.env.local
+*.env
